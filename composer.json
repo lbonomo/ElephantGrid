@@ -1,0 +1,17 @@
+{
+    "name": "lbonomo/semanal",
+    "autoload": {
+        "psr-4": {
+            "Lbonomo\\Semanal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Bonomo",
+            "email": "bonomo.lucas@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.18"
+    }
+}
